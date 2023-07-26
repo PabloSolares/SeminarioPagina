@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/SeminarioPagina/build/static/css/main.10a664db.css",
-    "main.js": "/SeminarioPagina/build/static/js/main.0a774205.js",
-    "static/media/educacion primaria (1).jpg": "/SeminarioPagina/build/static/media/educacion primaria (1).7736cfbfc94526c83874.jpg",
-    "static/media/cap-est.png": "/SeminarioPagina/build/static/media/cap-est.3ddc6ff8f0231649a781.png",
-    "static/media/ebroxd.jpg": "/SeminarioPagina/build/static/media/ebroxd.852f12ad7271fcf692e0.jpg",
-    "static/media/futuro.png": "/SeminarioPagina/build/static/media/futuro.2bdd08a365186aa1f957.png",
-    "static/media/integral.png": "/SeminarioPagina/build/static/media/integral.5182c1e7fed3b605c136.png",
-    "static/media/Educacion Inicial.jpg": "/SeminarioPagina/build/static/media/Educacion Inicial.c0be8dc838ad94bcbb5f.jpg",
-    "static/media/logo.png": "/SeminarioPagina/build/static/media/logo.c260bb23079a0e087800.png",
-    "static/media/Educacion Media.jpg": "/SeminarioPagina/build/static/media/Educacion Media.593de7d8e5240e73cbb4.jpg",
-    "index.html": "/SeminarioPagina/build/index.html",
-    "main.10a664db.css.map": "/SeminarioPagina/build/static/css/main.10a664db.css.map",
-    "main.0a774205.js.map": "/SeminarioPagina/build/static/js/main.0a774205.js.map"
+    "main.css": "/static/css/main.10a664db.css",
+    "main.js": "/static/js/main.8fc24d7e.js",
+    "static/media/educacion primaria (1).jpg": "/static/media/educacion primaria (1).7736cfbfc94526c83874.jpg",
+    "static/media/cap-est.png": "/static/media/cap-est.3ddc6ff8f0231649a781.png",
+    "static/media/ebroxd.jpg": "/static/media/ebroxd.852f12ad7271fcf692e0.jpg",
+    "static/media/futuro.png": "/static/media/futuro.2bdd08a365186aa1f957.png",
+    "static/media/integral.png": "/static/media/integral.5182c1e7fed3b605c136.png",
+    "static/media/Educacion Inicial.jpg": "/static/media/Educacion Inicial.c0be8dc838ad94bcbb5f.jpg",
+    "static/media/logo.png": "/static/media/logo.c260bb23079a0e087800.png",
+    "static/media/Educacion Media.jpg": "/static/media/Educacion Media.593de7d8e5240e73cbb4.jpg",
+    "index.html": "/index.html",
+    "main.10a664db.css.map": "/static/css/main.10a664db.css.map",
+    "main.8fc24d7e.js.map": "/static/js/main.8fc24d7e.js.map"
   },
   "entrypoints": [
     "static/css/main.10a664db.css",
-    "static/js/main.0a774205.js"
+    "static/js/main.8fc24d7e.js"
   ]
 }
