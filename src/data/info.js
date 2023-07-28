@@ -146,37 +146,37 @@ export const data = [
     {
         nivel: 'media',
         numAct: 'actividad5',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/qa_bEVnGgiw?controls=0?rel=0',
         actInfo: 'Club de resolución de conflictos: Crea un club o grupo de estudiantes interesados en aprender sobre la resolución de conflictos y la promoción de la paz. Organiza reuniones regulares donde los estudiantes discutan casos, compartan estrategias y realicen actividades prácticas para desarrollar habilidades de mediación y negociación.'
     },
     {
         nivel: 'media',
         numAct: 'actividad6',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/swGSaGfz1qQ?controls=0?rel=0',
         actInfo: 'Campañas de concientización en redes sociales: Anima a los estudiantes a utilizar las redes sociales para crear y difundir mensajes positivos sobre la prevención de la violencia escolar. Pueden crear hashtags, compartir infografías o publicar testimonios de experiencias positivas para inspirar a otros a tomar medidas contra la violencia.'
     },
     {
         nivel: 'media',
         numAct: 'actividad7',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/0yiKWuqoFcM?controls=0?rel=0',
         actInfo: 'Investigación y presentación de proyectos: Asigna a los estudiantes proyectos de investigación sobre la violencia escolar y sus causas subyacentes. Pídeles que realicen presentaciones para compartir sus hallazgos y propuestas de solución. Esto les ayudará a desarrollar habilidades de investigación y presentación, así como a profundizar en su comprensión del tema.'
     },
     {
         nivel: 'media',
         numAct: 'actividad8',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/LSgAJvIw39k?controls=0?rel=0',
         actInfo: 'Creación de un código de conducta escolar: Trabaja con los estudiantes para desarrollar un código de conducta escolar que promueva un ambiente seguro y respetuoso. Pídeles que propongan reglas y normas que reflejen los valores de no violencia y respeto mutuo, y luego discutan y voten sobre su implementación.'
     },
     {
         nivel: 'media',
         numAct: 'actividad9',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/4pDefOYMNpo?controls=0?rel=0',
         actInfo: 'Campañas de concienciación: Planifica campañas de concienciación en la escuela, donde los estudiantes puedan diseñar carteles, realizar presentaciones o preparar material informativo para educar a otros compañeros sobre la importancia de prevenir la violencia.'
     },
     {
         nivel: 'media',
         numAct: 'actividad10',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/KFVsiD76Jis?controls=0?rel=0',
         actInfo: 'Organización de actividades solidarias: Motiva a los estudiantes a participar en actividades solidarias dentro de la comunidad, como voluntariado en refugios de animales, hogares de ancianos o proyectos de limpieza ambiental. Estas experiencias les permitirán desarrollar empatía y comprensión hacia los demás.'
     },
 ]
