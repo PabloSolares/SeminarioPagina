@@ -22,8 +22,9 @@ const NavBar = () => {
             <img src={logo} alt="Logo EducaMiel" />{" "}
           </Link>
         </li>
-        <li>
+        <li className="hamburger-button">
           <Hamburger
+            
             toggled={isOpen}
             toggle={setOpen}
             color="white"

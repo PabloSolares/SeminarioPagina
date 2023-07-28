@@ -1,13 +1,11 @@
 import React from "react";
-import inicial from '../../assets/Educacion Inicial.jpg'
-import primaria from '../../assets/educacion primaria (1).jpg'
+import inicial from "../../assets/Educacion Inicial.jpg";
+import primaria from "../../assets/educacion primaria (1).jpg";
 import { Link } from "react-router-dom";
 
-import media from '../../assets/Educacion Media.jpg'
-
+import media from "../../assets/Educacion Media.jpg";
 
 export const Actividades = () => {
-
   return (
     <>
       <div className="banner">
@@ -20,7 +18,7 @@ export const Actividades = () => {
           <h1>ACTIVIDADES</h1>
           <p>
             Somos un grupo de estudiantes con la meta de capacitar a los
-            docentes para que sepan como actuar y responder ante la violencia
+            docentes para que sepan cómo actuar y responder ante la violencia
             escolar
           </p>
         </span>
@@ -43,57 +41,71 @@ export const Actividades = () => {
               valores dentro de tu salón.
             </li>
             <li>
-              Para ver las actividades, tendras un apartado llamado “Video” aquí
-              podras ver un video con un ejemplo de violencia en el cual te
-              daremos 3 opciones a como actuarias como docente y cual es la
+              Para ver las actividades, tendrás un apartado llamado “Video” aquí
+              podrás ver un video con un ejemplo de violencia en el cual te
+              daremos 3 opciones a como actuarias como docente y cuál es la
               acción que deberías realizar y el por qué. Y otro que dirá
               “Actividad” donde podrás realizarla junto con tus alumnos para
               concientizar sobre la violencia en el ámbito escolar.
             </li>
             <li>
               Al responder la pregunta con respecto al video de la actividad
-              donde se te indicará cual es la opción correcta.
+              donde se te indicará cuál es la opción correcta.
             </li>
           </ol>
         </div>
 
-        <div className='flex-level'>
-          <div className='level-card '>
-            <div className='level-img'>
-              <img src={inicial} alt='Nivel Inicial'/>
+        <div className="flex-level">
+          <div className="level-card ">
+            <div className="level-img">
+              <img src={inicial} alt="Nivel Inicial" />
             </div>
-            <div className='level-content' >
-                <h6>EJERCICIOS DE EDUCCACION INICIAL</h6>
-              <div className="button-act button-yellow"><Link to='/ejercicios/inicial/actividad1/video' className="button-text">Comenzar</Link> </div>
-
-            </div>
-          </div>
-          <div className='level-card'>
-            <div className='level-img'>
-              <img src={primaria} alt='Nivel Primaria'/>
-
-            </div>
-            <div className='level-content' >
-                <h6>EJERCICIOS DE EDUCACIÓN PRIMARIA</h6>
-              <div className="button-act button-blue"><Link to='/ejercicios/primaria/actividad1/video' className="button-text">Comenzar</Link> </div>
-
+            <div className="level-content">
+              <h6>EJERCICIOS DE EDUCCACION INICIAL</h6>
+              <div className="button-act button-yellow">
+                <Link
+                  to="/ejercicios/inicial/actividad1/video"
+                  className="button-text"
+                >
+                  Comenzar
+                </Link>{" "}
+              </div>
             </div>
           </div>
-          <div className='level-card'>
-            <div className='level-img'>
-              <img src={media} alt='Nivel Media'/>
-
+          <div className="level-card">
+            <div className="level-img">
+              <img src={primaria} alt="Nivel Primaria" />
             </div>
-            <div className='level-content' >
-                <h6>EJERCICIOS DE EDUCACIÓN MEDIA</h6>
-              <div className="button-act button-red"><Link to='/ejercicios/media/actividad1/video' className="button-text">Comenzar</Link> </div>
+            <div className="level-content">
+              <h6>EJERCICIOS DE EDUCACIÓN PRIMARIA</h6>
+              <div className="button-act button-blue">
+                <Link
+                  to="/ejercicios/primaria/actividad1/video"
+                  className="button-text"
+                >
+                  Comenzar
+                </Link>{" "}
+              </div>
             </div>
           </div>
-
+          <div className="level-card">
+            <div className="level-img">
+              <img src={media} alt="Nivel Media" />
+            </div>
+            <div className="level-content">
+              <h6>EJERCICIOS DE EDUCACIÓN MEDIA</h6>
+              <div className="button-act button-red">
+                <Link
+                  to="/ejercicios/media/actividad1/video"
+                  className="button-text"
+                >
+                  Comenzar
+                </Link>{" "}
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-
-      
     </>
   );
 };
