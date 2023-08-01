@@ -12,7 +12,7 @@ const NavBar = () => {
             <li><Link to={`/quienes-somos`} className='link-style'> Quienes somos</Link></li>
             <li><Link to={`/nuestro-equipo`} className='link-style'>Nuestro Equipo</Link></li>
             <li><Link to={`/actividades`} className='link-style'>Actividades</Link></li>
-            <li><Link to={`/ejercicios`} className='link-style'>Ejercicios</Link></li>
+            <li><Link to={`/documento`} className='link-style'>Documento</Link></li>
 
         </ul>
 
@@ -52,8 +52,8 @@ const NavBar = () => {
             </Link>
           </li>
           <li>
-            <Link to={`/ejercicios`} className="link-style">
-              Ejercicios
+            <Link to={`/documento`} className="link-style">
+              Documento
             </Link>
           </li>
         </ul>

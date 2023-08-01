@@ -8,6 +8,7 @@ import { DashBoardRoutes } from "./DashBoardRoutes";
 import { Ejercicios } from "../components/ui/Ejercicios";
 import { Footer } from "../components/ui/Footer";
 import { Actividades } from "../components/ui/Actividades";
+import { Documento } from "../components/ui/Documento";
 
 export const AppRoutes = () => {
   return (
@@ -19,6 +20,7 @@ export const AppRoutes = () => {
         <Route path="/quienes-somos" element={<Somos />} />
         <Route path="/nuestro-equipo" element={<GetStudents />} />
         <Route path="/actividades" element={<Actividades />} />
+        <Route path="/documento" element={<Documento />} />
 
         <Route path="/ejercicios" element={<DashBoardRoutes />}>
           

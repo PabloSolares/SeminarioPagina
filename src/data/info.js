@@ -62,61 +62,61 @@ export const data = [
     {
         nivel: 'primaria',
         numAct: 'actividad1',
-        urlVideo: 'https://www.youtube.com/embed/wyK7YuwUWsU',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/6kQhj32Dcj8?controls=0?rel=0',
         actInfo: 'Círculo de elogios: Forma un círculo en el aula y pide a cada niño que elogie a otro compañero por algo positivo que hayan hecho. Esto fomentará la apreciación mutua y construirá un ambiente positivo.'
     },
     {
         nivel: 'primaria',
         numAct: 'actividad2',
-        urlVideo: 'https://www.youtube.com/embed/aXzVF3XeS8M?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/BSnMC8eacIE?controls=0?rel=0',
         actInfo: 'Panel de discusión: Organiza un panel de discusión en el que los estudiantes puedan compartir sus experiencias y opiniones sobre situaciones de violencia y cómo se pueden prevenir. Anima a los niños a expresar sus ideas y a respetar las opiniones de los demás.'
     },
     {
         nivel: 'primaria',
         numAct: 'actividad3',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/tCXGJQYZ9JA?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/KL9xLYYTV1Q?controls=0?rel=0',
         actInfo: 'Proyecto de servicio comunitario: Lleva a cabo un proyecto de servicio comunitario en el que los estudiantes trabajen juntos para ayudar a otros. Puede ser organizar una campaña de recogida de alimentos, limpiar un parque local o visitar un hogar de ancianos. Esto promoverá la empatía y el espíritu de ayuda.'
     },
     {
         nivel: 'primaria',
         numAct: 'actividad4',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/7dZxOfaTGDc?controls=0?rel=0',
         actInfo: 'Debate sobre resolución de conflictos: Divide a los estudiantes en grupos y asigna a cada grupo un escenario de conflicto. Pide a los grupos que debatan diferentes formas de resolver el conflicto de manera pacífica y luego presenten sus ideas al resto de la clase.'
     },
     {
         nivel: 'primaria',
         numAct: 'actividad5',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/59oZMLuPN1Q?controls=0?rel=0',
         actInfo: 'Cartas de agradecimiento: Anima a los estudiantes a escribir cartas de agradecimiento a personas en la escuela que hayan sido amables o hayan mostrado actos de bondad. Esto promoverá la gratitud y reforzará la importancia de tratar a los demás con respeto.'
     },
     {
         nivel: 'primaria',
         numAct: 'actividad6',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/0qLqg4RLzh8?controls=0?rel=0',
         actInfo: 'Creación de un mural de la paz: Trabaja con los estudiantes para crear un mural grande que represente mensajes de paz, tolerancia y respeto. Los niños pueden dibujar imágenes y escribir palabras relacionadas con estos valores.'
     },
     {
         nivel: 'primaria',
         numAct: 'actividad7',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/eqOVsX1QhPY?controls=0?rel=0',
         actInfo: 'Juego de palabras poderosas: Pide a los niños que formen parejas y practiquen decir palabras positivas y de aliento el uno al otro. Pueden utilizar palabras como "amabilidad", "respeto", "apoyo", "compañerismo" y más.'
     },
     {
         nivel: 'primaria',
         numAct: 'actividad8',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/li0J7Bs6H40?controls=0?rel=0',
         actInfo: 'Juego de roles con resolución de conflictos: Divide a los estudiantes en grupos y asigna a cada grupo un escenario de conflicto. Pídeles que representen el escenario y encuentren soluciones pacíficas para resolver el conflicto. Después, discute las diferentes soluciones y cómo podrían aplicarse en situaciones reales.'
     },
     {
         nivel: 'primaria',
         numAct: 'actividad9',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/SNG6S2wHiko?controls=0?rel=0',
         actInfo: 'Club de la amistad: Crea un club en el que los estudiantes se reúnan regularmente para discutir temas relacionados con la amistad, la empatía y el respeto mutuo. Pueden compartir sus experiencias, leer libros sobre estos temas y realizar actividades interactivas juntos.'
     },
     {
         nivel: 'primaria',
         numAct: 'actividad10',
-        urlVideo: 'https://www.youtube-nocookie.com/embed/IdneKLhsWOQ?controls=0?rel=0',
+        urlVideo: 'https://www.youtube-nocookie.com/embed/CLGxpjZSZ9E?controls=0?rel=0',
         actInfo: 'Juego de valores: Organiza un juego en el que los estudiantes tengan que emparejar acciones con valores positivos, como "compartir" con "generosidad" o "escuchar" con "empatía". Esto les ayudará a relacionar acciones con los valores que promueven relaciones saludables'
     },
     {
