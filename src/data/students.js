@@ -35,28 +35,28 @@ export const investStudents1 = [
         'id': 5,
         'name': 'Jorge Andres',
         'lastname': 'Astudillo Carrillo',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargado de estrategias de nación y acción.',
         'group': 'invest1'  
     },
     {
         'id': 6,
         'name': 'Carlos David',
         'lastname': 'Gutierrez Lopez',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargado de realizar la portada y buscar soluciones a problemas planteados.',
         'group': 'invest1'  
     },
     {
         'id': 7,
         'name': 'Kenet David',
         'lastname': 'Mazariegos Calderon',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargado de buscar cómo podemos asumir ser mejores estudiantes. ',
         'group': 'invest1'  
     },
     {
         'id': 8,
         'name': 'Edson Denilson',
         'lastname': 'Martinez Barrios',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargado de realizar los compromisos de estudiantes.',
         'group': 'invest1'  
     },
 ]
@@ -80,14 +80,14 @@ export const investStudents2 = [
         'id': 11,
         'name': 'Elizabeth Janneth',
         'lastname': 'Rizo López',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargada de dedicatoria y apoyó con los compromisos familiares.',
         'group': 'invest2'  
     },
     {
         'id': 12,
         'name': 'Pilarin Ximena',
         'lastname': 'Ajanel Estrada',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargada de agradecimientos y compromisos familiares.',
         'group': 'invest2'  
     },
 ]
@@ -97,28 +97,28 @@ export const investStudents3 = [
         'id': 13,
         'name': 'Gabriel Alexander',
         'lastname': 'Yelmo Fuentes',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargado de herramientas de investigación, objetivos generales y específicos, encuestas y estrategias',
         'group': 'invest3'  
     },
     {
         'id': 14,
         'name': 'María Leticia',
         'lastname': 'Solares Diaz',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargada de realizar las grabaciones de los audios de las actividades y también de los valores. Capturó las actividades en grabaciones de audio y enfatizó la importancia de los valores en el proyecto',
         'group': 'invest3'  
     },
     {
         'id': 15,
         'name': 'Bryan Estivenson Alxander',
         'lastname': 'Calderon Donis',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargado de metodología e investigación.',
         'group': 'invest3'  
     },
     {
         'id': 16,
         'name': 'Angel Gabriel',
         'lastname': 'Ortiz Enriquez',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargada de explicar por qué se da la violencia, sus causas y origen.',
         'group': 'invest3'  
     }
 ]
@@ -128,35 +128,35 @@ export const investStudents4 = [
         'id': 17,
         'name': 'Gabriela Alejandra',
         'lastname': 'Saavedra García',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargada de explicar por qué se da la violencia, sus causas y origen.',
         'group': 'invest4'  
     },
     {
         'id': 18,
         'name': 'María José',
         'lastname': 'Salazar Bobadilla',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargada de realizar la definición de la violencia escolar.',
         'group': 'invest4'  
     },
     {
         'id': 19,
         'name': 'Andres Abraham',
         'lastname': 'Velásquez Ruano',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargado de explicar por qué se da la violencia, sus causas y origen.',
         'group': 'invest4'  
     },
     {
         'id': 20,
         'name': 'Gilmar Jeancarlo',
         'lastname': 'Sosa Estrada',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargado de realizar las observaciones.',
         'group': 'invest4'  
     },
     {
         'id': 21,
         'name': 'Tyra Paola',
         'lastname': 'Williams Sagastume',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargada de explicar por qué se da la violencia, sus causas y origen.',
         'group': 'invest4'  
     },
 ]

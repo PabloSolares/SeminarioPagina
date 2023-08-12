@@ -1354,3 +1354,27 @@ ul {
 #footer .link-style:hover {
     color: rgba(255, 255, 255, 0.66);
 }
+
+#footer .button-link{
+    background: white;
+    width: 200px;
+    height: 70px;
+    border: none;
+    font-family: 'Anek Telugu', sans-serif;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: center;
+    box-shadow: 5px 15px 10px rgba(69, 69, 69, 0.395);
+    transition: 300ms;
+    cursor: pointer;
+}
+
+#footer .button-link:hover{
+   
+    /* box-shadow: 5px 5px 5px rgba(237, 237, 237, 0.56); */
+}
+#footer .button-link a{
+    text-decoration: none;
+    color: #12A13A;
+}

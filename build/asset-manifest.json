@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba8d09d0.css",
-    "main.js": "/static/js/main.bbcc315f.js",
+    "main.css": "/static/css/main.d9d5bf0c.css",
+    "main.js": "/static/js/main.4cb4d27c.js",
     "static/media/educacion primaria (1).jpg": "/static/media/educacion primaria (1).7736cfbfc94526c83874.jpg",
     "static/media/cap-est.png": "/static/media/cap-est.3ddc6ff8f0231649a781.png",
     "static/media/ebroxd.jpg": "/static/media/ebroxd.852f12ad7271fcf692e0.jpg",
@@ -11,11 +11,11 @@
     "static/media/logo.png": "/static/media/logo.c260bb23079a0e087800.png",
     "static/media/Educacion Media.jpg": "/static/media/Educacion Media.593de7d8e5240e73cbb4.jpg",
     "index.html": "/index.html",
-    "main.ba8d09d0.css.map": "/static/css/main.ba8d09d0.css.map",
-    "main.bbcc315f.js.map": "/static/js/main.bbcc315f.js.map"
+    "main.d9d5bf0c.css.map": "/static/css/main.d9d5bf0c.css.map",
+    "main.4cb4d27c.js.map": "/static/js/main.4cb4d27c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba8d09d0.css",
-    "static/js/main.bbcc315f.js"
+    "static/css/main.d9d5bf0c.css",
+    "static/js/main.4cb4d27c.js"
   ]
 }

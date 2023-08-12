@@ -10,7 +10,7 @@ export const Footer = () => {
             <li><Link to={`/quienes-somos`} className='link-style'> Quienes somos</Link></li>
             <li><Link to={`/nuestro-equipo`} className='link-style'>Nuestro Equipo</Link></li>
             <li><Link to={`/ejercicios`} className='link-style'>Ejercicios</Link></li>
-
+            <li><button type="button" className='button-link'><a href="https://docs.google.com/forms/d/e/1FAIpQLSfInKkfYkGLgBCbS8ocsoTf79GFtw4LvPVD9n8g9BZ-opJxAg/viewform?usp=sf_link">Deja tu Opinión aquí!</a></button></li>
         </ul>
     </div>
   )
