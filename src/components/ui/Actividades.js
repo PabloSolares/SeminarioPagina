@@ -61,10 +61,10 @@ export const Actividades = () => {
               <img src={inicial} alt="Nivel Inicial" />
             </div>
             <div className="level-content">
-              <h6>EJERCICIOS DE EDUCCACION INICIAL</h6>
+              <h6>EJERCICIOS DE EDUCACIÓN INICIAL</h6>
               <div className="button-act button-yellow">
                 <Link
-                  to="/ejercicios/inicial/actividad1/video"
+                  to="/ejercicios/inicial/actividad1/video#nav"
                   className="button-text"
                 >
                   Comenzar

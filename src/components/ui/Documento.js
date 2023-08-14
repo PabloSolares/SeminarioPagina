@@ -1,14 +1,19 @@
 import React from 'react'
 
 export const Documento = () => {
+
   return (
-    <div>
+    
+    <div className='documento-flip'>
+   
 
-<a href="https://online.flippingbook.com/view/582435490/" className="fbo-embed" data-fbo-id="64f3688573" data-fbo-ratio="3:2" data-fbo-lightbox="yes" data-fbo-width="100%" data-fbo-height="auto" data-fbo-version="1" >VERSIONFINAL - Proyecto Reparación Pablo Solares</a>
-
+<iframe allowfullscreen="allowfullscreen"  style={{ border: '1px solid lightgray', width: '100%', height:' 800px'}} className="fp-iframe" src="https://heyzine.com/flip-book/1a71d929fd.html" ></iframe>
 
     </div>
+                            
+                        
   )
 
+                        
   
 }
