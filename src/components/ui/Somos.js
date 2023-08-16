@@ -5,7 +5,7 @@ export const Somos = () => {
     <>
       <div className="banner">
         <div className="banner-img">
-          <img src="/assets/somos-miel.png" alt="Somos Miel" />
+          <img src="/assets/clase2.jpg" alt="Somos Miel" />
         </div>
       </div>
       <div className="banner-info">

@@ -10,7 +10,7 @@ export const Actividades = () => {
     <>
       <div className="banner">
         <div className="banner-img">
-          <img src="/assets/act-banner.png" alt="Somos Miel" />
+          <img src="/assets/clase1.jpeg" alt="Somos Miel" />
         </div>
       </div>
       <div className="banner-info">

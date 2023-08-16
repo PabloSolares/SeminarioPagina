@@ -72,10 +72,10 @@ export const Ejercicios = () => {
       <div className="activities-container">
         <div className="container-lateral">
           <div className="back-button">
-            <div className="img-back-container">
+            <Link to={'/actividades'} className="img-back-container ">
               <img src="/assets/icon_arrow left.png" alt="Back" />
-            </div>
-            <span>Más Actividades</span>
+            </Link>
+            <span className="button-link-back" >Más Actividades</span>
           </div>
 
           <div className="column-media">

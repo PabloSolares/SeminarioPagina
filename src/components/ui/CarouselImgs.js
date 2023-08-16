@@ -1,26 +1,26 @@
 import React from 'react'
 import { Carousel } from 'react-responsive-carousel'
 
-import ebron from '../../assets/ebroxd.jpg';
-import futuro from '../../assets/futuro.png';
-import integral from '../../assets/integral.png';
-import jovenes from '../../assets/cap-est.png';
+
 
 
 export const CarouselImgs = () => {
   return (
     <Carousel className='carousel-cont' infiniteLoop={true} autoPlay={true} interval={1500} showThumbs={false} autoFocus={false} >
         <div>
-            <img src={ebron} alt='' />
+            <img src='/assets/carousel1.jpg' alt='' />
         </div>
         <div>
-            <img src={futuro} alt='Futuro' />
+            <img src='/assets/Carousel2.jpeg' alt='Futuro' />
         </div>
         <div>
-            <img src={integral} alt='Integral' />
+            <img src='/assets/carousel3.jpeg' alt='Integral' />
         </div>
         <div>
-            <img src={jovenes} alt='Jovenes' />
+            <img src='/assets/carousel4.jpeg' alt='Jovenes' />
+        </div>
+        <div>
+            <img src='/assets/carousel5.jpeg' alt='Jovenes' />
         </div>
     </Carousel>
   )
