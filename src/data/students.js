@@ -66,14 +66,14 @@ export const investStudents2 = [
         'id': 9,
         'name': 'Jessica Melissa',
         'lastname': 'Navichoc González',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargada de revisar y perfeccionar el trabajo escrito, así como de colaborar en la producción de los audios de los vídeos',
         'group': 'invest2'  
     },
     {
         'id': 10,
         'name': 'Juan Esteban',
         'lastname': 'Ruiz Villatoro',
-        'info': 'Encargado de la programación e implementacion del codigo.',
+        'info': 'Encargado de realizar la introducción.',
         'group': 'invest2'  
     },
     {

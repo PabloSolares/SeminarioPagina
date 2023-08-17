@@ -279,7 +279,7 @@ html {
 
 .title-prin{
     min-width: 200px !important;
-    max-width: 600px;
+    max-width: 500px !important;
     margin: 0px auto;
     text-align: center;
     margin-top: 50px;
@@ -288,7 +288,7 @@ html {
 
 .title-secun {
     min-width: 200px !important;
-    max-width: 500px;
+    max-width: 300px !important;
     margin: 0px auto;
     text-align: center;
     margin-top: 50px;
@@ -297,11 +297,12 @@ html {
 
 
 .carousel-cont{
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
 .title-prin h1 {
     color: #306D20;
+    
     font-size: 35px;
     font-weight: bolder;
     letter-spacing: 1px;
@@ -478,7 +479,7 @@ html {
     .banner-info {
         min-width: 400px !important;
         margin: 0px auto;
-
+        
     }
     
    
@@ -615,14 +616,14 @@ html {
 }
 
 .prin-info{
-    min-width: 300px;
+    min-width: 200px !important;
 }
 
 
 .info-para{
     margin: 0px auto;
-    min-width: 300px !important;
-    max-width: 800px;
+    padding: 40px;
+    min-width: 200px !important;
 }
 
 
@@ -747,6 +748,7 @@ ul {
     .container-team {
         min-width: 400px !important;
         margin: 0px auto;
+        margin-top: -30px !important;
     }
 
     .container-team  .selector {
@@ -793,11 +795,16 @@ ul {
     }
 
     .team-flex .title-prin{
-        min-width: 400px !important;
+        min-width: 700px !important;
         max-width: 800px;
-        flex-basis: 100% ;
     }
 
+    .team-flex .title-prin h1{
+
+        font-size: 35px !important;
+
+        
+    }
     .team-card {
         width: 500px !important;
     }
@@ -860,7 +867,7 @@ ul {
 }
 
 .container-team {
-    min-width: 350px;
+    min-width: 200px;
     margin: 0px auto;
 }
 
@@ -914,6 +921,10 @@ ul {
     margin: 0px auto;
 
    
+}
+
+.team-flex .title-prin h1{
+    font-size: 25px;
 }
 
 .team-card {
@@ -1069,7 +1080,9 @@ ul {
     }
     
     .actInfo-container{
-        min-width: 600px !important;
+        min-width: 400px !important;
+        max-width: 800px !important;
+
         margin: 0px auto !important;
 
     }
@@ -1269,6 +1282,8 @@ ul {
     min-width: 400px;
     text-align: center;
     margin-top: 100px;
+    padding-right: 40px;
+
 }
 
 .video-container iframe {
@@ -1278,17 +1293,19 @@ ul {
 
 
 .actInfo-container{
-    min-width: 300px;
+    max-width: 300px;
+    height: auto;
     text-align: center;
     margin: 0px auto;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 500;
     letter-spacing: -2px;
+    padding-right: 40px;
 }
 
 
 .actNum-title {
-    width: 90%;
+    width: 80%;
     color: #790A0E;
     font-size: 40px;
     font-style: normal;

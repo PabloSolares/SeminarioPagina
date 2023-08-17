@@ -57,31 +57,31 @@ export const GetStudents = () => {
       </div>
       <div className="team-flex">
         <div className="title-prin">
-          <h1 className="blue-title">Equipo de tecnologia</h1>
+          <h1 className="blue-title">Equipo de tecnología</h1>
         </div>
         {techStudents.map((student) => {
           return <Equipo key={student.id} {...student} />;
         })}
         <div className="title-prin">
-          <h1 className="green-title">Equipo de Investigación1</h1>
+          <h1 className="green-title">Equipo de Investigación</h1>
         </div>
         {investStudents1.map((student) => {
           return <Equipo key={student.id} {...student} />;
         })}
         <div className="title-prin">
-          <h1 className="red-title">Equipo de Investigación2</h1>
+          <h1 className="red-title">Equipo de Revisión</h1>
         </div>
         {investStudents2.map((student) => {
           return <Equipo key={student.id} {...student} />;
         })}
         <div className="title-prin">
-          <h1 className="yellow-title">Equipo de tecnologia3</h1>
+          <h1 className="yellow-title">Equipo de Biografía</h1>
         </div>
         {investStudents3.map((student) => {
           return <Equipo key={student.id} {...student} />;
         })}
         <div className="title-prin">
-          <h1 className="red-title">Equipo de tecnologia4</h1>
+          <h1 className="red-title">Equipo de Periodismo</h1>
         </div>
         {investStudents4.map((student) => {
           return <Equipo key={student.id} {...student} />;
