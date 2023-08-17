@@ -279,7 +279,7 @@ html {
 
 .title-prin{
     min-width: 200px !important;
-    max-width: 500px !important;
+    max-width: 300px !important;
     margin: 0px auto;
     text-align: center;
     margin-top: 50px;
@@ -792,6 +792,16 @@ ul {
         gap: 30px;
     
        
+    }
+
+    .title-prin{
+        min-width: 400px !important;
+        max-width: 800px !important;
+    }
+
+    .title-secun{
+        min-width: 400px !important;
+        max-width: 800px !important;
     }
 
     .team-flex .title-prin{
