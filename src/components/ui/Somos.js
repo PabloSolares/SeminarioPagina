@@ -3,7 +3,7 @@ import React from "react";
 export const Somos = () => {
   return (
     <>
-      <div className="banner">
+      <div className="banner" id="banner-redi">
         <div className="banner-img">
           <img src="/assets/clase2.jpg" alt="Somos Miel" />
         </div>

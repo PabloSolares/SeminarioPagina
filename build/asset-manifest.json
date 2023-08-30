@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ebd882db.css",
-    "main.js": "/static/js/main.41e0c533.js",
+    "main.js": "/static/js/main.095dfc71.js",
     "static/media/educacion primaria (1).jpg": "/static/media/educacion primaria (1).7736cfbfc94526c83874.jpg",
     "static/media/Educacion Inicial.jpg": "/static/media/Educacion Inicial.c0be8dc838ad94bcbb5f.jpg",
     "static/media/logo.png": "/static/media/logo.c260bb23079a0e087800.png",
     "static/media/Educacion Media.jpg": "/static/media/Educacion Media.593de7d8e5240e73cbb4.jpg",
     "index.html": "/index.html",
     "main.ebd882db.css.map": "/static/css/main.ebd882db.css.map",
-    "main.41e0c533.js.map": "/static/js/main.41e0c533.js.map"
+    "main.095dfc71.js.map": "/static/js/main.095dfc71.js.map"
   },
   "entrypoints": [
     "static/css/main.ebd882db.css",
-    "static/js/main.41e0c533.js"
+    "static/js/main.095dfc71.js"
   ]
 }
