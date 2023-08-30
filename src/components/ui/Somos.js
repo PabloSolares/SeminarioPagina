@@ -117,7 +117,6 @@ export const Somos = () => {
                 involucrar a todos los actores relevantes en la toma de
                 decisiones, promover la voz y la agencia de los estudiantes, y
                 fomentar la colaboración y la corresponsabilidad.
-                corresponsabilidad.
               </li>
               <li>
                 <strong>Aprendizaje socioemocional:</strong>El desarrollo de
